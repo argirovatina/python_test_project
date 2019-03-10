@@ -178,3 +178,97 @@
 2019-03-10 22:34:15,262 - Strart - DEBUG - bot1@qa.qa, APCR shot #5
 2019-03-10 22:34:16,767 - Strart - INFO - BotController, All tasks finished...
 2019-03-10 22:34:16,767 - Strart - INFO - ~~FINISH~~
+2019-03-10 22:39:47,839 - Strart - INFO - ~~START~~
+2019-03-10 22:39:47,839 - Strart - INFO - Strart loginin Bot bot1@qa.qa with login: bot1@qa.qa, pswd: q1w2e3r4t5
+2019-03-10 22:39:48,844 - Strart - INFO - Bot state: inHangar
+2019-03-10 22:39:48,844 - Strart - INFO - Buying tank: ('t-44')
+2019-03-10 22:39:50,848 - Strart - INFO - bot1@qa.qa ... OK
+2019-03-10 22:39:50,849 - Strart - INFO - bot1@qa.qa LOADING...
+2019-03-10 22:39:55,852 - Strart - DEBUG - bot1@qa.qa ... OK
+2019-03-10 22:39:55,852 - Strart - DEBUG - Teleport bot bot1@qa.qa on position: 11.11 12.3 123.4
+2019-03-10 22:39:55,852 - Strart - INFO - BotController, Task # 0 task name: move to first battle point
+2019-03-10 22:39:55,852 - Strart - INFO - BotController, Task # 1 task name: destroy t-26
+2019-03-10 22:39:55,853 - Strart - INFO - BotController, Task # 2 task name: 
+2019-03-10 22:39:55,853 - Strart - INFO - BotController, Task # 3 task name: ShootTask #4
+2019-03-10 22:39:55,853 - Strart - INFO - BotController, Task # 4 task name: move to last battle point
+2019-03-10 22:39:55,853 - Strart - INFO - BotController, Task # 5 task name: destroy IS2
+2019-03-10 22:39:55,853 - Strart - DEBUG - BotController, Start runs 6 tasks
+2019-03-10 22:39:55,853 - Strart - INFO - RUN TASK #1
+2019-03-10 22:39:55,853 - Strart - DEBUG - bot1@qa.qa Start Moving...
+2019-03-10 22:39:55,853 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:39:55,853 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:39:55,853 - Strart - DEBUG - bot1@qa.qa Finish moving at position: ['13.14', '12.3', '127.4']
+2019-03-10 22:39:55,853 - Strart - INFO - RUN TASK #2
+2019-03-10 22:39:55,853 - Strart - INFO - bot1@qa.qa Start shoothing at ['17.14', '12.1', '127.4'] by HE shells
+2019-03-10 22:39:57,854 - Strart - DEBUG - bot1@qa.qa, HE shot #1
+2019-03-10 22:39:59,355 - Strart - DEBUG - bot1@qa.qa, HE shot #2
+2019-03-10 22:40:00,858 - Strart - INFO - RUN TASK #3
+2019-03-10 22:40:00,858 - Strart - DEBUG - bot1@qa.qa Start Moving...
+2019-03-10 22:40:00,858 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:40:00,858 - Strart - DEBUG - bot1@qa.qa New bot position: ['17.14', '12.1', '127.4']
+2019-03-10 22:40:00,859 - Strart - DEBUG - bot1@qa.qa Finish moving at position: ['17.14', '12.1', '127.4']
+2019-03-10 22:40:00,859 - Strart - INFO - RUN TASK #4
+2019-03-10 22:40:00,859 - Strart - INFO - bot1@qa.qa Start shoothing at ['45.02', '778.4', '127.4'] by AP shells
+2019-03-10 22:40:02,860 - Strart - DEBUG - bot1@qa.qa, AP shot #1
+2019-03-10 22:40:04,365 - Strart - DEBUG - bot1@qa.qa, AP shot #2
+2019-03-10 22:40:05,869 - Strart - DEBUG - bot1@qa.qa, AP shot #3
+2019-03-10 22:40:07,371 - Strart - INFO - RUN TASK #5
+2019-03-10 22:40:07,372 - Strart - DEBUG - bot1@qa.qa Start Moving...
+2019-03-10 22:40:07,372 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:40:07,372 - Strart - DEBUG - bot1@qa.qa Finish moving at position: ['13.14', '12.3', '127.4']
+2019-03-10 22:40:07,372 - Strart - INFO - RUN TASK #6
+2019-03-10 22:40:07,372 - Strart - INFO - bot1@qa.qa Start shoothing at ['60.02', '5.4', '127.4'] by APCR shells
+2019-03-10 22:40:09,376 - Strart - DEBUG - bot1@qa.qa, APCR shot #1
+2019-03-10 22:40:10,878 - Strart - DEBUG - bot1@qa.qa, APCR shot #2
+2019-03-10 22:40:12,381 - Strart - DEBUG - bot1@qa.qa, APCR shot #3
+2019-03-10 22:40:13,884 - Strart - DEBUG - bot1@qa.qa, APCR shot #4
+2019-03-10 22:40:15,388 - Strart - DEBUG - bot1@qa.qa, APCR shot #5
+2019-03-10 22:40:16,893 - Strart - INFO - BotController, All tasks finished...
+2019-03-10 22:40:16,893 - Strart - INFO - ~~FINISH~~
+2019-03-10 22:45:59,026 - Strart - INFO - ~~START~~
+2019-03-10 22:45:59,026 - Strart - INFO - Strart loginin Bot bot1@qa.qa with login: bot1@qa.qa, pswd: q1w2e3r4t5
+2019-03-10 22:46:00,031 - Strart - INFO - Bot state: inHangar
+2019-03-10 22:46:00,031 - Strart - INFO - Buying tank: ('t-44')
+2019-03-10 22:46:02,032 - Strart - INFO - bot1@qa.qa ... OK
+2019-03-10 22:46:02,032 - Strart - INFO - bot1@qa.qa LOADING...
+2019-03-10 22:46:07,037 - Strart - DEBUG - bot1@qa.qa ... OK
+2019-03-10 22:46:07,038 - Strart - DEBUG - Teleport bot bot1@qa.qa on position: 11.11 12.3 123.4
+2019-03-10 22:46:07,038 - Strart - INFO - BotController, Task # 0 task name: move to first battle point
+2019-03-10 22:46:07,038 - Strart - INFO - BotController, Task # 1 task name: destroy t-26
+2019-03-10 22:46:07,038 - Strart - INFO - BotController, Task # 2 task name: 
+2019-03-10 22:46:07,038 - Strart - INFO - BotController, Task # 3 task name: ShootTask #4
+2019-03-10 22:46:07,038 - Strart - INFO - BotController, Task # 4 task name: move to last battle point
+2019-03-10 22:46:07,038 - Strart - INFO - BotController, Task # 5 task name: destroy IS2
+2019-03-10 22:46:07,038 - Strart - DEBUG - BotController, Start runs 6 tasks
+2019-03-10 22:46:07,038 - Strart - INFO - RUN TASK #1
+2019-03-10 22:46:07,038 - Strart - DEBUG - bot1@qa.qa Start Moving...
+2019-03-10 22:46:07,039 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:46:07,039 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:46:07,039 - Strart - DEBUG - bot1@qa.qa Finish moving at position: ['13.14', '12.3', '127.4']
+2019-03-10 22:46:07,039 - Strart - INFO - RUN TASK #2
+2019-03-10 22:46:07,039 - Strart - INFO - bot1@qa.qa Start shoothing at ['17.14', '12.1', '127.4'] by HE shells
+2019-03-10 22:46:09,040 - Strart - DEBUG - bot1@qa.qa, HE shot #1
+2019-03-10 22:46:10,544 - Strart - DEBUG - bot1@qa.qa, HE shot #2
+2019-03-10 22:46:12,049 - Strart - INFO - RUN TASK #3
+2019-03-10 22:46:12,049 - Strart - DEBUG - bot1@qa.qa Start Moving...
+2019-03-10 22:46:12,049 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:46:12,049 - Strart - DEBUG - bot1@qa.qa New bot position: ['17.14', '12.1', '127.4']
+2019-03-10 22:46:12,049 - Strart - DEBUG - bot1@qa.qa Finish moving at position: ['17.14', '12.1', '127.4']
+2019-03-10 22:46:12,049 - Strart - INFO - RUN TASK #4
+2019-03-10 22:46:12,049 - Strart - INFO - bot1@qa.qa Start shoothing at ['45.02', '778.4', '127.4'] by AP shells
+2019-03-10 22:46:14,050 - Strart - DEBUG - bot1@qa.qa, AP shot #1
+2019-03-10 22:46:15,556 - Strart - DEBUG - bot1@qa.qa, AP shot #2
+2019-03-10 22:46:17,060 - Strart - DEBUG - bot1@qa.qa, AP shot #3
+2019-03-10 22:46:18,560 - Strart - INFO - RUN TASK #5
+2019-03-10 22:46:18,561 - Strart - DEBUG - bot1@qa.qa Start Moving...
+2019-03-10 22:46:18,561 - Strart - DEBUG - bot1@qa.qa New bot position: ['13.14', '12.3', '127.4']
+2019-03-10 22:46:18,561 - Strart - DEBUG - bot1@qa.qa Finish moving at position: ['13.14', '12.3', '127.4']
+2019-03-10 22:46:18,561 - Strart - INFO - RUN TASK #6
+2019-03-10 22:46:18,561 - Strart - INFO - bot1@qa.qa Start shoothing at ['60.02', '5.4', '127.4'] by APCR shells
+2019-03-10 22:46:20,564 - Strart - DEBUG - bot1@qa.qa, APCR shot #1
+2019-03-10 22:46:22,070 - Strart - DEBUG - bot1@qa.qa, APCR shot #2
+2019-03-10 22:46:23,571 - Strart - DEBUG - bot1@qa.qa, APCR shot #3
+2019-03-10 22:46:25,075 - Strart - DEBUG - bot1@qa.qa, APCR shot #4
+2019-03-10 22:46:26,580 - Strart - DEBUG - bot1@qa.qa, APCR shot #5
+2019-03-10 22:46:28,083 - Strart - INFO - BotController, All tasks finished...
+2019-03-10 22:46:28,083 - Strart - INFO - ~~FINISH~~
