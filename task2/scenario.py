@@ -1,20 +1,17 @@
-import botController
+import bot_controller
 from bot import *
-import os
-from time import sleep
-import re
-import logger_module as log
+from logger_module import *
 from data_helper import *
-import config
 
 data = TestData()
 bot = Bot()
-controller = botController.BotController()
+controller = bot_controller.BotController()
+logger.info('~~START~~')
 data.prepare_bot(bot),
 data.start_battle(bot),
-data.start_first_mission(controller, bot),
 
 SCENARIO = (
+    data.start_first_mission(controller, bot),
     data.shoot_first_target(controller, bot),
     data.start_second_mission(controller, bot),
     data.shoot_second_target(controller, bot),
@@ -23,7 +20,7 @@ SCENARIO = (
     )
 
 for t in SCENARIO:
-    controller.addTask(t)
-controller.printExecutionStack()
+    controller.add_task(t)
+controller.print_execution_stack()
 controller.run()
-LOG_INFO(bot.name, '~~FINISH~~')
+logger.info('~~FINISH~~')

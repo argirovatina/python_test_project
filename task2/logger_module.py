@@ -1,26 +1,17 @@
-DEBUG = True
+import logging
 
-def LOG_DEBUG(msg, botName):
-    if DEBUG == False:
-        return False
-    print '\nDEBUG: ' + botName + ' -- ' + msg
+logger = logging.getLogger('Strart')
+logger.setLevel(logging.DEBUG)
 
-def LOG_INFO(botName, msg):
-    print '\nINFO: ' + botName + '  -- ' + msg
+fh = logging.FileHandler('log_file.log')
+fh.setLevel(logging.DEBUG)
 
-def LOG_ERROR(botName, errorCode, msg=''):
-    errorMsg = '\n!ERROR: ' + 'error code: %s' %errorCode
-    if msg != '':
-        errorMsg = errorMsg + 'msg: ' + msg
-    print '~'*80
-    print errorMsg + '!'
-    print '~' * 80
+ch = logging.StreamHandler()
+ch.setLevel(logging.ERROR)
 
-import pprint
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+ch.setFormatter(formatter)
+fh.setFormatter(formatter)
 
-def LONG_DEBUG(longMessage, botName=''):
-    if DEBUG == False:
-        return False
-    print '\nLONG_DEBUG from: ' + botName
-    pprint.pprint(longMessage)
-    print ''  # just to add free line delimiter
+logger.addHandler(ch)
+logger.addHandler(fh)
