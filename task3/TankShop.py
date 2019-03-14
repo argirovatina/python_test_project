@@ -1,5 +1,20 @@
 from logger import fin_logger
 
+class resources:
+    credits = int
+    gold = int
+ 
+ 
+class player:
+    resources = resources()
+    inventoryPlanes = list()
+    inventoryGuns = dict()
+    resources.credits = 800
+    resources.gold = 9
+
+    def saveResources(self): 
+         resources.credits = self.resources.credits
+         resources.gold = self.resources.gold
 
 class DB:
     def __init__(self):
@@ -38,6 +53,20 @@ class Shop:
             player.inventoryGuns[tankID].append(gunID)
             player.resources.credits -= self.db.guns[tankID][gunID]['credits']
             player.resources.gold -= self.db.guns[tankID][gunID]['gold']
-            player.saveResources()
-
+        player.saveResources()
         self.fin_logger.log_state(player)
+    # test
+# tankID = 2101
+# gunID = 555
+# player1 = player()
+# print player1.resources.gold
+# a = Shop()
+# a._Shop__buyTank(player1, tankID)
+# print player1.resources.credits
+# print player1.resources.gold
+# a._Shop__buyGuns(player1, 1100, 223)
+# print player1.resources.credits
+# print(player1.resources.credits) 
+# player1.inventoryPlanes.append(tankID)
+# player1.inventoryGuns[tankID] = [tankID, gunID]
+# a._Shop__buyGuns(player1, tankID, gunID)
