@@ -1,0 +1,5 @@
+Issues:
+- missing info that tank id is not in list
+- missing info that if player has not enough money for purchase
+- tank id is added to inventory_planes even if it was not bought
+- it is possible to get player balance below 0

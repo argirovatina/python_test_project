@@ -1,0 +1,11 @@
+Test Cases:
+- buy tank for credits, not enough gold)
+- buy tank for gold, not enough  credits)
+- buy tank when credits and gold are enough
+- buy tank when credits and gold are not enough 
+- buy tank when credits and gold are exact to tank ones
+- buy tank with id not from list
+- buy tank if id is a string
+- check that bought tank id is saved to inventory_planes
+- if player has float amount of credits/gold it should be interpreted as float nit integer (ex. 85.0 == 85.0 but != 850)
+- tank id should not be added to inventoryPlanes if tank was not bought
