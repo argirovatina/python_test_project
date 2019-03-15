@@ -1,363 +1,363 @@
-2019-03-15 12:20:37,520 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,521 - fin_logger - ERROR - Actual credit 220, expected credits 220, actual gold 0, expected gold 0, inventory_list {}, test_credits_gold_equals_buyGuns
-2019-03-15 12:20:37,521 - fin_logger - ERROR - Actual credit 220, expected credits 220, actual gold 0, expected gold 0, inventory_list {}, test_credits_gold_equals_buyGuns
-2019-03-15 12:20:37,521 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,521 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,521 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
-2019-03-15 12:20:37,521 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
-2019-03-15 12:20:37,521 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
-2019-03-15 12:20:37,521 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,522 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,523 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,524 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,525 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,526 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd7e8>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,527 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,528 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,529 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,530 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,531 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,532 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - INFO - Player: <TankShop.player instance at 0x10a1cd638>
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
-2019-03-15 12:20:37,533 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,737 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,738 - fin_logger - ERROR - Actual credit 220, expected credits 220, actual gold 0, expected gold 0, inventory_list {}, test_credits_gold_equals_buyGuns
+2019-03-15 12:56:41,738 - fin_logger - ERROR - Actual credit 220, expected credits 220, actual gold 0, expected gold 0, inventory_list {}, test_credits_gold_equals_buyGuns
+2019-03-15 12:56:41,738 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,738 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,738 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
+2019-03-15 12:56:41,738 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
+2019-03-15 12:56:41,738 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
+2019-03-15 12:56:41,738 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list {}, test_enough_credits_gold_buyGuns
+2019-03-15 12:56:41,738 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,738 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,738 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,739 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,740 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,741 - fin_logger - ERROR - Actual credit 19, expected credits 19, actual gold 10, expected gold 10, inventory_list {}, test_no_credits_enough_gold_buyGuns
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,742 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - ERROR - Actual credit 800, expected credits 800, actual gold 9, expected gold 9, inventory_list {}, test_no_credits_no_gold_buyGuns
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,743 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,744 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x1083676c8>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,745 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,746 - fin_logger - ERROR - Actual credit 1000, expected credits 1000, actual gold 25, expected gold 25, inventory_list [3101, 2101], test_enough_credits_gold_buyTank
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,747 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - ERROR - Actual credit 851, expected credits 851, actual gold 9, expected gold 9, inventory_list [3101, 2101, 2101], test_enough_credits_no_gold_buyTank
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,748 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,749 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,750 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,751 - fin_logger - ERROR - Actual credit 1499, expected credits 1499, actual gold 60, expected gold 60, inventory_list [3101, 2101, 2101, 2101, 2101, 3101], test_no_credits_enough_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - INFO - Player: <TankShop.player instance at 0x108367518>
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank
+2019-03-15 12:56:41,752 - fin_logger - ERROR - Actual credit -50, expected credits -50, actual gold -1, expected gold -1, inventory_list [3101, 2101, 2101, 2101, 2101, 3101, 2101], test_no_credits_no_gold_buyTank

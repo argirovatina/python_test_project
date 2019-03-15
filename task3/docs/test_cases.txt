@@ -9,3 +9,11 @@ Test Cases:
 - check that bought tank id is saved to inventory_planes
 - if player has float amount of credits/gold it should be interpreted as float nit integer (ex. 85.0 == 85.0 but != 850)
 - tank id should not be added to inventoryPlanes if tank was not bought
+- buy guns for credits, not enough gold)
+- buy guns for gold, not enough  credits)
+- buy guns when credits and gold are enough
+- buy guns when credits and gold are not enough 
+- buy guns when credits and gold are exact to tank ones
+- check that bought guns id is saved to inventory_planes
+- guns id should not be added to inventoryPlanes if guns were not bought
+- expect tank/guns ids to be int
