@@ -1,14 +1,11 @@
 class GeneralCounter:
+    _counter = 0
 
-    def __init__(self, id=0):
-        self.id = id
+    def __init__(self):
+        print GeneralCounter._counter
+        GeneralCounter._counter += 1
+        self.id = GeneralCounter._counter 
 
-    def get_id(self):
-        return self.__id
-
-    def set_id(self, id):
-        self.__id = id + 1   
- 
 class Id:
     id = GeneralCounter()
  
