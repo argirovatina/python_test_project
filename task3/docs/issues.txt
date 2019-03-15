@@ -3,3 +3,4 @@ Issues:
 - missing info that if player has not enough money for purchase
 - tank id is added to inventory_planes even if it was not bought
 - it is possible to get player balance below 0
+- guns id is not added to inventory list after successful purchase

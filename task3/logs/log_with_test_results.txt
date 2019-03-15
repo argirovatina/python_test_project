@@ -1,0 +1,125 @@
+FF.FF.FFFF....EFFFF.FF.
+======================================================================
+ERROR: test_credits_gold_equals_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 124, in test_credits_gold_equals_buyTank
+    self.fin_logger.log_balance_assert(credits, self.test_palyer.resources.credits, gold, self.test_palyer.resources.gold, 'test_credits_gold_equals_buyTank')
+TypeError: log_balance_assert() takes exactly 7 arguments (6 given)
+
+======================================================================
+FAIL: test_credits_gold_equals_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 203, in test_credits_gold_equals_buyGuns
+    assert credits == 0
+AssertionError
+
+======================================================================
+FAIL: test_enough_credits_gold_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 171, in test_enough_credits_gold_buyGuns
+    assert credits == 750
+AssertionError
+
+======================================================================
+FAIL: test_float_credits_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 246, in test_float_credits_buyGuns
+    self.assertIs(self.test_palyer.resources.credits, int)
+AssertionError: 900.0 is not <type 'int'>
+
+======================================================================
+FAIL: test_float_gold_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 252, in test_float_gold_buyGuns
+    self.assertIs(self.test_palyer.resources.gold, int)
+AssertionError: 45.0 is not <type 'int'>
+
+======================================================================
+FAIL: test_inventory_guns_change_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 136, in test_inventory_guns_change_buyGuns
+    self.assertNotEqual(self.test_palyer.inventoryGuns, dict())
+AssertionError: {} == {}
+
+======================================================================
+FAIL: test_inventory_not_empty_before_purchase_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 156, in test_inventory_not_empty_before_purchase_buyGuns
+    self.assertNotEquals(self.test_palyer.inventoryPlanes, list())
+AssertionError: [] == []
+
+======================================================================
+FAIL: test_no_credits_enough_gold_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 221, in test_no_credits_enough_gold_buyGuns
+    assert self.test_palyer.inventoryGuns == list()
+AssertionError
+
+======================================================================
+FAIL: test_no_credits_no_gold_buyGuns (__main__.BuyGunsTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 189, in test_no_credits_no_gold_buyGuns
+    assert self.test_palyer.inventoryGuns == list()
+AssertionError
+
+======================================================================
+FAIL: test_enough_credits_gold_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 20, in test_enough_credits_gold_buyTank
+    assert credits == 150
+AssertionError
+
+======================================================================
+FAIL: test_enough_credits_no_gold_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 86, in test_enough_credits_no_gold_buyTank
+    assert self.test_palyer.inventoryPlanes == list()
+AssertionError
+
+======================================================================
+FAIL: test_float_credits_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 95, in test_float_credits_buyTank
+    self.assertIs(self.test_palyer.resources.credits, int)
+AssertionError: 900.0 is not <type 'int'>
+
+======================================================================
+FAIL: test_float_gold_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 101, in test_float_gold_buyTank
+    self.assertIs(self.test_palyer.resources.gold, int)
+AssertionError: 15.0 is not <type 'int'>
+
+======================================================================
+FAIL: test_no_credits_enough_gold_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 70, in test_no_credits_enough_gold_buyTank
+    assert self.test_palyer.inventoryPlanes == list()
+AssertionError
+
+======================================================================
+FAIL: test_no_credits_no_gold_buyTank (__main__.BuyTankTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kristina/Downloads/wotqaautomation_testtasks/task3/tests.py", line 36, in test_no_credits_no_gold_buyTank
+    assert credits == 800
+AssertionError
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.014s
+
+FAILED (failures=14, errors=1)
