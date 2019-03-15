@@ -2,7 +2,6 @@ class GeneralCounter:
     _counter = 0
 
     def __init__(self):
-        print GeneralCounter._counter
         GeneralCounter._counter += 1
         self.id = GeneralCounter._counter 
 

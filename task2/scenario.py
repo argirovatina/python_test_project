@@ -1,7 +1,10 @@
 import bot_controller
 from bot import *
-from logger_module import *
+import sys
+sys.path.append('test_data')
+sys.path.append('logs')
 from data_helper import *
+from logger_module import *
 
 data = TestData()
 bot = Bot()

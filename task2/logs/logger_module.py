@@ -3,7 +3,7 @@ import logging
 logger = logging.getLogger('Strart')
 logger.setLevel(logging.DEBUG)
 
-fh = logging.FileHandler('log_file.log')
+fh = logging.FileHandler('logs/log_file.log')
 fh.setLevel(logging.DEBUG)
 
 ch = logging.StreamHandler()

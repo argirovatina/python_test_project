@@ -3,7 +3,7 @@ import config
 from tasks import *
 import credentials
 
-test_data = yaml.load(open("test_data.yaml", 'r'))
+test_data = yaml.load(open("test_data/test_data.yaml", 'r'))
 
 class TestData():
 
