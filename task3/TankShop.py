@@ -9,8 +9,8 @@ class player:
     resources = resources()
     inventoryPlanes = list()
     inventoryGuns = dict()
-    resources.credits = 800
-    resources.gold = 9
+    resources.credits = 10000
+    resources.gold = 100
 
     def saveResources(self): 
          resources.credits = self.resources.credits
@@ -55,18 +55,3 @@ class Shop:
             player.resources.gold -= self.db.guns[tankID][gunID]['gold']
         player.saveResources()
         self.fin_logger.log_state(player)
-    # test
-# tankID = 2101
-# gunID = 555
-# player1 = player()
-# print player1.resources.gold
-# a = Shop()
-# a._Shop__buyTank(player1, tankID)
-# print player1.resources.credits
-# print player1.resources.gold
-# a._Shop__buyGuns(player1, 1100, 223)
-# print player1.resources.credits
-# print(player1.resources.credits) 
-# player1.inventoryPlanes.append(tankID)
-# player1.inventoryGuns[tankID] = [tankID, gunID]
-# a._Shop__buyGuns(player1, tankID, gunID)
